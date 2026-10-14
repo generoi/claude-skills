@@ -1,0 +1,11 @@
+{
+  "name": "genero",
+  "owner": { "name": "Genero" },
+  "plugins": [
+    {
+      "name": "genero-design",
+      "source": "./plugins/genero-design",
+      "description": "Kickoff, workshop and design skills for Genero website projects built on GDS."
+    }
+  ]
+}
