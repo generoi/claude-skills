@@ -1,6 +1,6 @@
 # Genero Claude skills
 
-Shared Claude skills for the Genero team. Works the same for everyone, whichever claude.ai organization you are in. All you need is access to this repo.
+Shared Claude skills for the Genero team. Public, so anyone can install it without logging in, whichever claude.ai organization they are in.
 
 ## Install
 
@@ -35,4 +35,4 @@ Repeat when a skill changes. The release is rebuilt on every change to `main`.
 3. Open a PR. Someone from the core team reviews it.
 4. When the plugin's behaviour changes, bump `version` in `plugins/<plugin>/.claude-plugin/plugin.json`.
 
-Keep skills based on GDS (generoi/bedrock). Don't put client data, credentials or personal details in a skill.
+Keep skills based on GDS (generoi/bedrock). This repo is public: never put client data, credentials or personal details in a skill.
